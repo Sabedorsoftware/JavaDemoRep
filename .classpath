@@ -29,13 +29,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/D/Softwares/Logger_error_jar_files/slf4j-api-2.0.9.jar"/>
-	<classpathentry kind="lib" path="D:/D/Softwares/Logger_error_jar_files/slf4j-simple-2.0.9.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
